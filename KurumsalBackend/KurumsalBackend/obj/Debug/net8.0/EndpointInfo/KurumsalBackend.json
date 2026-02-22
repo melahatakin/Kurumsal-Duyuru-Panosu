@@ -1,0 +1,76 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "KurumsalBackend",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Duyuru": {
+      "get": {
+        "tags": [
+          "Duyuru"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Duyuru"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Duyuru"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Duyuru"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Duyuru"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Duyuru": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "baslik": {
+            "type": "string",
+            "nullable": true
+          },
+          "icerik": {
+            "type": "string",
+            "nullable": true
+          },
+          "tarih": {
+            "type": "string",
+            "format": "date-time"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

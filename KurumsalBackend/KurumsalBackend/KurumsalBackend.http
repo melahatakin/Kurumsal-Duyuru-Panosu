@@ -1,0 +1,6 @@
+@KurumsalBackend_HostAddress = http://localhost:5056
+
+GET {{KurumsalBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "KurumsalBackend.Controllers.DuyuruController",
+    "Method": "Getir",
+    "RelativePath": "api/Duyuru",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KurumsalBackend.Controllers.DuyuruController",
+    "Method": "Ekle",
+    "RelativePath": "api/Duyuru",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "yeniDuyuru",
+        "Type": "KurumsalBackend.Models.Duyuru",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

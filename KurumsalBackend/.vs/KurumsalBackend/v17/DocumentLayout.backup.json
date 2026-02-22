@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\melo\\Desktop\\EgitimPlatformu\\KurumsalBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{890ECB9C-5F70-469F-9CFF-7AF2E394E6E3}|KurumsalBackend\\KurumsalBackend.csproj|c:\\users\\melo\\desktop\\egitimplatformu\\kurumsalbackend\\kurumsalbackend\\controllers\\duyurucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{890ECB9C-5F70-469F-9CFF-7AF2E394E6E3}|KurumsalBackend\\KurumsalBackend.csproj|solutionrelative:kurumsalbackend\\controllers\\duyurucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890ECB9C-5F70-469F-9CFF-7AF2E394E6E3}|KurumsalBackend\\KurumsalBackend.csproj|c:\\users\\melo\\desktop\\egitimplatformu\\kurumsalbackend\\kurumsalbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{890ECB9C-5F70-469F-9CFF-7AF2E394E6E3}|KurumsalBackend\\KurumsalBackend.csproj|solutionrelative:kurumsalbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890ECB9C-5F70-469F-9CFF-7AF2E394E6E3}|KurumsalBackend\\KurumsalBackend.csproj|c:\\users\\melo\\desktop\\egitimplatformu\\kurumsalbackend\\kurumsalbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{890ECB9C-5F70-469F-9CFF-7AF2E394E6E3}|KurumsalBackend\\KurumsalBackend.csproj|solutionrelative:kurumsalbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890ECB9C-5F70-469F-9CFF-7AF2E394E6E3}|KurumsalBackend\\KurumsalBackend.csproj|c:\\users\\melo\\desktop\\egitimplatformu\\kurumsalbackend\\kurumsalbackend\\models\\duyuru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{890ECB9C-5F70-469F-9CFF-7AF2E394E6E3}|KurumsalBackend\\KurumsalBackend.csproj|solutionrelative:kurumsalbackend\\models\\duyuru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\melo\\Desktop\\EgitimPlatformu\\KurumsalBackend\\KurumsalBackend\\Program.cs",
+              "RelativeDocumentMoniker": "KurumsalBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\melo\\Desktop\\EgitimPlatformu\\KurumsalBackend\\KurumsalBackend\\Program.cs",
+              "RelativeToolTip": "KurumsalBackend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T21:35:04.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\melo\\Desktop\\EgitimPlatformu\\KurumsalBackend\\KurumsalBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "KurumsalBackend\\appsettings.json",
+              "ToolTip": "C:\\Users\\melo\\Desktop\\EgitimPlatformu\\KurumsalBackend\\KurumsalBackend\\appsettings.json",
+              "RelativeToolTip": "KurumsalBackend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-22T21:32:54.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Duyuru.cs",
+              "DocumentMoniker": "C:\\Users\\melo\\Desktop\\EgitimPlatformu\\KurumsalBackend\\KurumsalBackend\\Models\\Duyuru.cs",
+              "RelativeDocumentMoniker": "KurumsalBackend\\Models\\Duyuru.cs",
+              "ToolTip": "C:\\Users\\melo\\Desktop\\EgitimPlatformu\\KurumsalBackend\\KurumsalBackend\\Models\\Duyuru.cs",
+              "RelativeToolTip": "KurumsalBackend\\Models\\Duyuru.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T21:32:34.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DuyuruController.cs",
+              "DocumentMoniker": "C:\\Users\\melo\\Desktop\\EgitimPlatformu\\KurumsalBackend\\KurumsalBackend\\Controllers\\DuyuruController.cs",
+              "RelativeDocumentMoniker": "KurumsalBackend\\Controllers\\DuyuruController.cs",
+              "ToolTip": "C:\\Users\\melo\\Desktop\\EgitimPlatformu\\KurumsalBackend\\KurumsalBackend\\Controllers\\DuyuruController.cs",
+              "RelativeToolTip": "KurumsalBackend\\Controllers\\DuyuruController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwv0kAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T21:31:30.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
